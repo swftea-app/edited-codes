@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/badge",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Badge\\Providers\\BadgeServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Badge\\": ""
+        }
+    }
+}

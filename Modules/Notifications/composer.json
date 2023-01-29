@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/notifications",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Notifications\\Providers\\NotificationsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Notifications\\": ""
+        }
+    }
+}

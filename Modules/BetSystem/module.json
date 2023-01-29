@@ -1,0 +1,13 @@
+{
+    "name": "BetSystem",
+    "alias": "betsystem",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\BetSystem\\Providers\\BetSystemServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/avatar",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Avatar\\Providers\\AvatarServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Avatar\\": ""
+        }
+    }
+}

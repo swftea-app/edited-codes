@@ -1,0 +1,13 @@
+{
+    "name": "TextParser",
+    "alias": "textparser",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TextParser\\Providers\\TextParserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

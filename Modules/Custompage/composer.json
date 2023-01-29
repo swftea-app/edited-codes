@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/custompage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Custompage\\Providers\\CustompageServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Custompage\\": ""
+        }
+    }
+}

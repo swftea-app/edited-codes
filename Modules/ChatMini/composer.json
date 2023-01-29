@@ -1,0 +1,30 @@
+{
+    "name": "prazeev/chatmini",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ChatMini\\Providers\\ChatMiniServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "require": {
+        "realrashid/sweet-alert": "^3.0",
+        "thomaswelton/laravel-gravatar": "~1.0",
+        "hootlex/laravel-friendships": "^1.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ChatMini\\": ""
+        }
+    }
+}

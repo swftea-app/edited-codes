@@ -1,0 +1,13 @@
+{
+    "name": "InAppMail",
+    "alias": "inappmail",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\InAppMail\\Providers\\InAppMailServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

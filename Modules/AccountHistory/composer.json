@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/accounthistory",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AccountHistory\\Providers\\AccountHistoryServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AccountHistory\\": ""
+        }
+    }
+}

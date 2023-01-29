@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/swfteamission",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\SwfteaMission\\Providers\\SwfteaMissionServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SwfteaMission\\": ""
+        }
+    }
+}

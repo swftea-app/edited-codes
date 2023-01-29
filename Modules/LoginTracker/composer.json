@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/logintracker",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\LoginTracker\\Providers\\LoginTrackerServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\LoginTracker\\": ""
+        }
+    }
+}

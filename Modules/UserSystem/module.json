@@ -1,0 +1,13 @@
+{
+    "name": "UserSystem",
+    "alias": "usersystem",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\UserSystem\\Providers\\UserSystemServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

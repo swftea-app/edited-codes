@@ -1,0 +1,13 @@
+{
+    "name": "Emoticon",
+    "alias": "emoticon",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Emoticon\\Providers\\EmoticonServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

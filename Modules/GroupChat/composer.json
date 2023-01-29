@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/groupchat",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\GroupChat\\Providers\\GroupChatServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GroupChat\\": ""
+        }
+    }
+}

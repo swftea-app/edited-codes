@@ -1,0 +1,28 @@
+{
+    "name": "prazeev/dashboard",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "require": {
+        "consoletvs/charts": "6.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Dashboard\\Providers\\DashboardServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Dashboard\\": ""
+        }
+    }
+}

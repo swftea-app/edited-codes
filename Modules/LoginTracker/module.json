@@ -1,0 +1,13 @@
+{
+    "name": "LoginTracker",
+    "alias": "logintracker",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\LoginTracker\\Providers\\LoginTrackerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

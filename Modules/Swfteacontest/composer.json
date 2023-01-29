@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/swfteacontest",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Swfteacontest\\Providers\\SwfteacontestServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Swfteacontest\\": ""
+        }
+    }
+}

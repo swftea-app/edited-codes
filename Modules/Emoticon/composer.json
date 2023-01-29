@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/emoticon",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Emoticon\\Providers\\EmoticonServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Emoticon\\": ""
+        }
+    }
+}

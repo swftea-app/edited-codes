@@ -1,0 +1,13 @@
+{
+    "name": "SwfteaMission",
+    "alias": "swfteamission",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SwfteaMission\\Providers\\SwfteaMissionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

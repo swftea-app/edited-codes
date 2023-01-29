@@ -1,0 +1,13 @@
+{
+    "name": "ChatMini",
+    "alias": "chatmini",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ChatMini\\Providers\\ChatMiniServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

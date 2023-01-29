@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/betsystem",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\BetSystem\\Providers\\BetSystemServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BetSystem\\": ""
+        }
+    }
+}

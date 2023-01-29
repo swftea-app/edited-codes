@@ -1,0 +1,13 @@
+{
+    "name": "Avatar",
+    "alias": "avatar",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Avatar\\Providers\\AvatarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

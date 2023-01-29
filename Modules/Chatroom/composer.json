@@ -1,0 +1,25 @@
+{
+    "name": "prazeev/chatroom",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bashudev Paudel",
+            "email": "prazeev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Chatroom\\Providers\\ChatroomServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Chatroom\\": ""
+        }
+    }
+}

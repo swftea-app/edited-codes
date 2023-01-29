@@ -1,0 +1,13 @@
+{
+    "name": "Charts",
+    "alias": "charts",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Charts\\Providers\\ChartsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

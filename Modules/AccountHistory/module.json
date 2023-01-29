@@ -1,0 +1,13 @@
+{
+    "name": "AccountHistory",
+    "alias": "accounthistory",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AccountHistory\\Providers\\AccountHistoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

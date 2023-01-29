@@ -1,0 +1,17 @@
+{
+    "name": "Dashboard",
+    "alias": "dashboard",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Dashboard\\Providers\\DashboardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [
+        "charts",
+        "usersystem",
+        "rolepermission"
+    ]
+}

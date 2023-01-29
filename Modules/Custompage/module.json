@@ -1,0 +1,13 @@
+{
+    "name": "Custompage",
+    "alias": "custompage",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Custompage\\Providers\\CustompageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

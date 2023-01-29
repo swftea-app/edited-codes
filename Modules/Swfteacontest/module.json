@@ -1,0 +1,13 @@
+{
+    "name": "Swfteacontest",
+    "alias": "swfteacontest",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Swfteacontest\\Providers\\SwfteacontestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

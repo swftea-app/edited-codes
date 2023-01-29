@@ -1,0 +1,13 @@
+{
+    "name": "GroupChat",
+    "alias": "groupchat",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\GroupChat\\Providers\\GroupChatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
